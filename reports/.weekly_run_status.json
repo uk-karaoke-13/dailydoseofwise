@@ -1,8 +1,8 @@
 {
  "title": "Test run 30-Oct-2026 (dry run, no GPU)",
  "started": "30-Oct-2026 12:32",
- "updated": "30-Oct-2026 12:33",
- "status": "running",
+ "updated": "30-Oct-2026 12:34",
+ "status": "Process completed \u2013 test only \u2013 all steps completed",
  "steps": [
   {
    "name": "Read Google Sheet & pick 7 quotes",
