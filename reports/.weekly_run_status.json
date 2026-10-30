@@ -3,5 +3,11 @@
  "started": "30-Oct-2026 12:32",
  "updated": "30-Oct-2026 12:32",
  "status": "running",
- "steps": []
+ "steps": [
+  {
+   "name": "Read Google Sheet & pick 7 quotes",
+   "state": "started",
+   "start": "30-Oct-2026 12:32"
+  }
+ ]
 }
