@@ -7,6 +7,6 @@ Started 30-Oct-2026 12:32 SGT · Last update 30-Oct-2026 12:32 SGT
 | # | Step | Status | Started | Finished | Note |
 |---|---|---|---|---|---|
 | 1 | Read Google Sheet & pick 7 quotes | ✅ done | 30-Oct-2026 12:32 | 30-Oct-2026 12:32 | 7 picked |
-| 2 | Voiceovers | ⏳ started | 30-Oct-2026 12:32 |  |  |
+| 2 | Voiceovers | ✅ done | 30-Oct-2026 12:32 | 30-Oct-2026 12:32 | 1 of 1 |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
