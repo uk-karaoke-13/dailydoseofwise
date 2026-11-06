@@ -1,28 +1,7 @@
 {
- "title": "Test run 30-Oct-2026 (dry run, no GPU)",
- "started": "30-Oct-2026 12:32",
- "updated": "30-Oct-2026 12:34",
- "status": "Process completed \u2013 test only \u2013 all steps completed",
- "steps": [
-  {
-   "name": "Read Google Sheet & pick 7 quotes",
-   "state": "done",
-   "start": "30-Oct-2026 12:32",
-   "end": "30-Oct-2026 12:32",
-   "note": "7 picked"
-  },
-  {
-   "name": "Voiceovers",
-   "state": "done",
-   "start": "30-Oct-2026 12:32",
-   "end": "30-Oct-2026 12:32",
-   "note": "1 of 1"
-  },
-  {
-   "name": "Render reel_test",
-   "state": "done",
-   "start": "30-Oct-2026 12:32",
-   "end": "30-Oct-2026 12:33"
-  }
- ]
+ "title": "Weekly run 06-Nov-2026",
+ "started": "06-Nov-2026 10:36",
+ "updated": "06-Nov-2026 10:36",
+ "status": "running",
+ "steps": []
 }
