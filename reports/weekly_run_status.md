@@ -1,6 +1,6 @@
 # Weekly run 06-Nov-2026 – Daily Dose of Wise
 
-Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:23 SGT
+Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:24 SGT
 
 **Status: running**
 
@@ -32,6 +32,6 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:23 SGT
 | 24 | Check reels | ✅ done | 06-Nov-2026 11:22 | 06-Nov-2026 11:22 | 7 of 7 ok (Tagore regenerated once) |
 | 25 | Upload to GitHub | ✅ done | 06-Nov-2026 11:22 | 06-Nov-2026 11:23 | 7 reels, commit a0a395f |
 | 26 | Schedule in Buffer | ✅ done | 06-Nov-2026 11:23 | 06-Nov-2026 11:23 | 14 posts (7 IG + 7 YT) scheduled |
-| 27 | Update Google Sheet | ⏳ started | 06-Nov-2026 11:23 |  |  |
+| 27 | Update Google Sheet | ✅ done | 06-Nov-2026 11:23 | 06-Nov-2026 11:24 | 7 rows updated |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
