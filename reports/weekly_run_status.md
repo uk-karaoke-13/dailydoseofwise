@@ -1,6 +1,6 @@
 # Weekly run 06-Nov-2026 – Daily Dose of Wise
 
-Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:05 SGT
+Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:06 SGT
 
 **Status: running**
 
@@ -25,6 +25,6 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:05 SGT
 | 17 | Render reel_marcusaurelius_obstacle | ✅ done | 06-Nov-2026 11:02 | 06-Nov-2026 11:03 |  |
 | 18 | Render reel_dhammapada_mind | ✅ done | 06-Nov-2026 11:03 | 06-Nov-2026 11:04 |  |
 | 19 | Render reel_ujjwal_roles | ✅ done | 06-Nov-2026 11:04 | 06-Nov-2026 11:05 |  |
-| 20 | Check reels | ⏳ started | 06-Nov-2026 11:05 |  |  |
+| 20 | Check reels | ✅ done | 06-Nov-2026 11:05 | 06-Nov-2026 11:06 | 6 ok, Tagore: tree behind text -> regenerate |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
