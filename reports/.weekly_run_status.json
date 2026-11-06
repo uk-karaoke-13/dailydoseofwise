@@ -162,6 +162,11 @@
    "start": "06-Nov-2026 11:22",
    "end": "06-Nov-2026 11:23",
    "note": "7 reels, commit a0a395f"
+  },
+  {
+   "name": "Schedule in Buffer",
+   "state": "started",
+   "start": "06-Nov-2026 11:23"
   }
  ]
 }
