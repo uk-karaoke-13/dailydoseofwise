@@ -1,6 +1,6 @@
 # Weekly run 06-Nov-2026 – Daily Dose of Wise
 
-Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 10:40 SGT
+Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 10:55 SGT
 
 **Status: running**
 
@@ -11,7 +11,7 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 10:40 SGT
 | 3 | Pick 7 quotes | ✅ done | 06-Nov-2026 10:38 | 06-Nov-2026 10:39 | 3 Ujjwal + 4 (2 famous, 2 lesser-known) |
 | 4 | Write missing fields & plan | ✅ done | 06-Nov-2026 10:39 | 06-Nov-2026 10:39 | 6 rows filled, plan for 7 |
 | 5 | Voiceovers | ✅ done | 06-Nov-2026 10:39 | 06-Nov-2026 10:40 | 7 of 7 |
-| 6 | Background reel_vivekananda_arise | ⏳ started | 06-Nov-2026 10:40 |  |  |
+| 6 | Background reel_vivekananda_arise | ✅ done | 06-Nov-2026 10:40 | 06-Nov-2026 10:55 |  |
 | 7 | Background reel_dhammapada_mind | ⏳ started | 06-Nov-2026 10:40 |  |  |
 | 8 | Background reel_ujjwal_roles | ⏳ started | 06-Nov-2026 10:40 |  |  |
 | 9 | Background reel_ujjwal_silence | ⏳ started | 06-Nov-2026 10:40 |  |  |
