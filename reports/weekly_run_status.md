@@ -16,5 +16,6 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 10:40 SGT
 | 8 | Background reel_ujjwal_roles | ⏳ started | 06-Nov-2026 10:40 |  |  |
 | 9 | Background reel_ujjwal_silence | ⏳ started | 06-Nov-2026 10:40 |  |  |
 | 10 | Background reel_marcusaurelius_obstacle | ⏳ started | 06-Nov-2026 10:40 |  |  |
+| 11 | Background reel_tagore_stars | ⏳ started | 06-Nov-2026 10:40 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
