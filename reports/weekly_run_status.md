@@ -13,5 +13,6 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 10:40 SGT
 | 5 | Voiceovers | ✅ done | 06-Nov-2026 10:39 | 06-Nov-2026 10:40 | 7 of 7 |
 | 6 | Background reel_vivekananda_arise | ⏳ started | 06-Nov-2026 10:40 |  |  |
 | 7 | Background reel_dhammapada_mind | ⏳ started | 06-Nov-2026 10:40 |  |  |
+| 8 | Background reel_ujjwal_roles | ⏳ started | 06-Nov-2026 10:40 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
