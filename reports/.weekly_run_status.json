@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 06-Nov-2026",
  "started": "06-Nov-2026 10:36",
- "updated": "06-Nov-2026 10:55",
+ "updated": "06-Nov-2026 10:56",
  "status": "running",
  "steps": [
   {
@@ -67,8 +67,9 @@
   },
   {
    "name": "Background reel_tagore_stars",
-   "state": "started",
-   "start": "06-Nov-2026 10:40"
+   "state": "done",
+   "start": "06-Nov-2026 10:40",
+   "end": "06-Nov-2026 10:56"
   },
   {
    "name": "Background reel_ujjwal_footsteps",
