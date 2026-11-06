@@ -1,6 +1,6 @@
 # Weekly run 06-Nov-2026 – Daily Dose of Wise
 
-Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:02 SGT
+Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:03 SGT
 
 **Status: running**
 
@@ -22,6 +22,6 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:02 SGT
 | 14 | Render reel_vivekananda_arise | ✅ done | 06-Nov-2026 10:59 | 06-Nov-2026 11:00 |  |
 | 15 | Render reel_tagore_stars | ✅ done | 06-Nov-2026 11:00 | 06-Nov-2026 11:01 |  |
 | 16 | Render reel_ujjwal_silence | ✅ done | 06-Nov-2026 11:01 | 06-Nov-2026 11:02 |  |
-| 17 | Render reel_marcusaurelius_obstacle | ⏳ started | 06-Nov-2026 11:02 |  |  |
+| 17 | Render reel_marcusaurelius_obstacle | ✅ done | 06-Nov-2026 11:02 | 06-Nov-2026 11:03 |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
