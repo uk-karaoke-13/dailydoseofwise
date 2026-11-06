@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 06-Nov-2026",
  "started": "06-Nov-2026 10:36",
- "updated": "06-Nov-2026 11:04",
+ "updated": "06-Nov-2026 11:05",
  "status": "running",
  "steps": [
   {
@@ -119,8 +119,9 @@
   },
   {
    "name": "Render reel_ujjwal_roles",
-   "state": "started",
-   "start": "06-Nov-2026 11:04"
+   "state": "done",
+   "start": "06-Nov-2026 11:04",
+   "end": "06-Nov-2026 11:05"
   }
  ]
 }
