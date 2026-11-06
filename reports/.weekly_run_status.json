@@ -73,8 +73,9 @@
   },
   {
    "name": "Background reel_ujjwal_footsteps",
-   "state": "started",
-   "start": "06-Nov-2026 10:40"
+   "state": "done",
+   "start": "06-Nov-2026 10:40",
+   "end": "06-Nov-2026 10:56"
   }
  ]
 }
