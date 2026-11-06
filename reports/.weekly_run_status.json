@@ -1,13 +1,15 @@
 {
  "title": "Weekly run 06-Nov-2026",
  "started": "06-Nov-2026 10:36",
- "updated": "06-Nov-2026 10:36",
+ "updated": "06-Nov-2026 10:37",
  "status": "running",
  "steps": [
   {
    "name": "Set up workspace",
-   "state": "started",
-   "start": "06-Nov-2026 10:36"
+   "state": "done",
+   "start": "06-Nov-2026 10:36",
+   "end": "06-Nov-2026 10:37",
+   "note": "tools + keys ready"
   }
  ]
 }
