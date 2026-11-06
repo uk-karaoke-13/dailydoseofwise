@@ -13,7 +13,7 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 10:57 SGT
 | 5 | Voiceovers | ✅ done | 06-Nov-2026 10:39 | 06-Nov-2026 10:40 | 7 of 7 |
 | 6 | Background reel_vivekananda_arise | ✅ done | 06-Nov-2026 10:40 | 06-Nov-2026 10:55 |  |
 | 7 | Background reel_dhammapada_mind | ⏳ started | 06-Nov-2026 10:40 |  |  |
-| 8 | Background reel_ujjwal_roles | ⏳ started | 06-Nov-2026 10:40 |  |  |
+| 8 | Background reel_ujjwal_roles | ✅ done | 06-Nov-2026 10:40 | 06-Nov-2026 10:57 |  |
 | 9 | Background reel_ujjwal_silence | ⏳ started | 06-Nov-2026 10:40 |  |  |
 | 10 | Background reel_marcusaurelius_obstacle | ✅ done | 06-Nov-2026 10:40 | 06-Nov-2026 10:57 |  |
 | 11 | Background reel_tagore_stars | ✅ done | 06-Nov-2026 10:40 | 06-Nov-2026 10:56 |  |
