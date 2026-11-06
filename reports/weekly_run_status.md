@@ -1,6 +1,6 @@
 # Weekly run 06-Nov-2026 – Daily Dose of Wise
 
-Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:21 SGT
+Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:22 SGT
 
 **Status: running**
 
@@ -29,5 +29,6 @@ Started 06-Nov-2026 10:36 SGT · Last update 06-Nov-2026 11:21 SGT
 | 21 | Voiceovers | ✅ done | 06-Nov-2026 11:06 | 06-Nov-2026 11:06 | 1 of 1 |
 | 22 | Background reel_tagore_stars | ✅ done | 06-Nov-2026 11:06 | 06-Nov-2026 11:21 |  |
 | 23 | Render reel_tagore_stars | ✅ done | 06-Nov-2026 11:21 | 06-Nov-2026 11:21 |  |
+| 24 | Check reels | ✅ done | 06-Nov-2026 11:22 | 06-Nov-2026 11:22 | 7 of 7 ok (Tagore regenerated once) |
 
 _Times are Singapore time. This file is overwritten by every weekly run._

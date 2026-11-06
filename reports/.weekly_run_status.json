@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 06-Nov-2026",
  "started": "06-Nov-2026 10:36",
- "updated": "06-Nov-2026 11:21",
+ "updated": "06-Nov-2026 11:22",
  "status": "running",
  "steps": [
   {
@@ -148,6 +148,13 @@
    "state": "done",
    "start": "06-Nov-2026 11:21",
    "end": "06-Nov-2026 11:21"
+  },
+  {
+   "name": "Check reels",
+   "start": "06-Nov-2026 11:22",
+   "state": "done",
+   "end": "06-Nov-2026 11:22",
+   "note": "7 of 7 ok (Tagore regenerated once)"
   }
  ]
 }
