@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 13-Nov-2026",
  "started": "13-Nov-2026 10:36",
- "updated": "13-Nov-2026 10:38",
+ "updated": "13-Nov-2026 10:39",
  "status": "running",
  "steps": [
   {
@@ -13,8 +13,10 @@
   },
   {
    "name": "Pick dates",
-   "state": "started",
-   "start": "13-Nov-2026 10:38"
+   "state": "done",
+   "start": "13-Nov-2026 10:38",
+   "end": "13-Nov-2026 10:39",
+   "note": "Mon 16 \u2013 Sun 22 Nov (last post Sun 15 Nov)"
   }
  ]
 }
