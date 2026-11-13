@@ -20,8 +20,10 @@
   },
   {
    "name": "Pick 7 quotes",
-   "state": "started",
-   "start": "13-Nov-2026 10:39"
+   "state": "done",
+   "start": "13-Nov-2026 10:39",
+   "end": "13-Nov-2026 10:39",
+   "note": "7 picked (no unused Ujjwal/Rupali); rows 28,85,57,69,27,43,60"
   }
  ]
 }
