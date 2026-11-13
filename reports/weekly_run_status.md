@@ -13,7 +13,7 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 10:58 SGT
 | 5 | Voiceovers | ✅ done | 13-Nov-2026 10:40 | 13-Nov-2026 10:41 | 7 of 7 |
 | 6 | Background reel_frost_through | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:55 |  |
 | 7 | Background reel_chineseproverb_tree | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:57 |  |
-| 8 | Background reel_hurston_years | ⏳ started | 13-Nov-2026 10:41 |  |  |
+| 8 | Background reel_hurston_years | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:58 |  |
 | 9 | Background reel_emerson_trust | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:58 |  |
 | 10 | Background reel_dillard_days | ⏳ started | 13-Nov-2026 10:41 |  |  |
 | 11 | Background reel_japaneseproverb_rise | ⏳ started | 13-Nov-2026 10:41 |  |  |
