@@ -26,5 +26,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:06 SGT
 | 18 | Render reel_emerson_trust | ✅ done | 13-Nov-2026 11:03 | 13-Nov-2026 11:04 |  |
 | 19 | Render reel_einstein_imagination | ✅ done | 13-Nov-2026 11:04 | 13-Nov-2026 11:05 |  |
 | 20 | Check reels | ✅ done | 13-Nov-2026 11:06 | 13-Nov-2026 11:06 | 6 of 7 OK; Frost regenerating (hiker distorted) |
+| 21 | Voiceovers | ⏳ started | 13-Nov-2026 11:06 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
