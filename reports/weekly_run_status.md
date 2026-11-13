@@ -1,6 +1,6 @@
 # Weekly run 13-Nov-2026 – Daily Dose of Wise
 
-Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:02 SGT
+Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:03 SGT
 
 **Status: running**
 
@@ -22,5 +22,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:02 SGT
 | 14 | Render reel_dillard_days | ✅ done | 13-Nov-2026 11:00 | 13-Nov-2026 11:01 |  |
 | 15 | Render reel_frost_through | ✅ done | 13-Nov-2026 11:01 | 13-Nov-2026 11:02 |  |
 | 16 | Render reel_hurston_years | ✅ done | 13-Nov-2026 11:02 | 13-Nov-2026 11:02 |  |
+| 17 | Render reel_japaneseproverb_rise | ⏳ started | 13-Nov-2026 11:03 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
