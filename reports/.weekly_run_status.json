@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 13-Nov-2026",
  "started": "13-Nov-2026 10:36",
- "updated": "13-Nov-2026 11:26",
+ "updated": "13-Nov-2026 11:27",
  "status": "running",
  "steps": [
   {
@@ -172,8 +172,10 @@
   },
   {
    "name": "Update Google Sheet",
-   "state": "started",
-   "start": "13-Nov-2026 11:26"
+   "state": "done",
+   "start": "13-Nov-2026 11:26",
+   "end": "13-Nov-2026 11:27",
+   "note": "7 rows updated"
   }
  ]
 }
