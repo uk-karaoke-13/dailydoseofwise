@@ -23,5 +23,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:03 SGT
 | 15 | Render reel_frost_through | ✅ done | 13-Nov-2026 11:01 | 13-Nov-2026 11:02 |  |
 | 16 | Render reel_hurston_years | ✅ done | 13-Nov-2026 11:02 | 13-Nov-2026 11:02 |  |
 | 17 | Render reel_japaneseproverb_rise | ✅ done | 13-Nov-2026 11:03 | 13-Nov-2026 11:03 |  |
+| 18 | Render reel_emerson_trust | ⏳ started | 13-Nov-2026 11:03 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
