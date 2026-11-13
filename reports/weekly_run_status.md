@@ -1,6 +1,6 @@
 # Weekly run 13-Nov-2026 – Daily Dose of Wise
 
-Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 10:55 SGT
+Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 10:57 SGT
 
 **Status: running**
 
@@ -12,7 +12,7 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 10:55 SGT
 | 4 | Write missing fields & plan | ✅ done | 13-Nov-2026 10:39 | 13-Nov-2026 10:40 | 7 rows filled (F–H), plan.json |
 | 5 | Voiceovers | ✅ done | 13-Nov-2026 10:40 | 13-Nov-2026 10:41 | 7 of 7 |
 | 6 | Background reel_frost_through | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:55 |  |
-| 7 | Background reel_chineseproverb_tree | ⏳ started | 13-Nov-2026 10:41 |  |  |
+| 7 | Background reel_chineseproverb_tree | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:57 |  |
 | 8 | Background reel_hurston_years | ⏳ started | 13-Nov-2026 10:41 |  |  |
 | 9 | Background reel_emerson_trust | ⏳ started | 13-Nov-2026 10:41 |  |  |
 | 10 | Background reel_dillard_days | ⏳ started | 13-Nov-2026 10:41 |  |  |
