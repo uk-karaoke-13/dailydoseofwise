@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 13-Nov-2026",
  "started": "13-Nov-2026 10:36",
- "updated": "13-Nov-2026 10:58",
+ "updated": "13-Nov-2026 10:59",
  "status": "running",
  "steps": [
   {
@@ -65,8 +65,9 @@
   },
   {
    "name": "Background reel_dillard_days",
-   "state": "started",
-   "start": "13-Nov-2026 10:41"
+   "state": "done",
+   "start": "13-Nov-2026 10:41",
+   "end": "13-Nov-2026 10:59"
   },
   {
    "name": "Background reel_japaneseproverb_rise",
