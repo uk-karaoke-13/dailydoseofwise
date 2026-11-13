@@ -21,5 +21,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:02 SGT
 | 13 | Render reel_chineseproverb_tree | ✅ done | 13-Nov-2026 10:59 | 13-Nov-2026 11:00 |  |
 | 14 | Render reel_dillard_days | ✅ done | 13-Nov-2026 11:00 | 13-Nov-2026 11:01 |  |
 | 15 | Render reel_frost_through | ✅ done | 13-Nov-2026 11:01 | 13-Nov-2026 11:02 |  |
+| 16 | Render reel_hurston_years | ⏳ started | 13-Nov-2026 11:02 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
