@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 13-Nov-2026",
  "started": "13-Nov-2026 10:36",
- "updated": "13-Nov-2026 10:59",
+ "updated": "13-Nov-2026 11:00",
  "status": "running",
  "steps": [
   {
@@ -83,8 +83,9 @@
   },
   {
    "name": "Render reel_chineseproverb_tree",
-   "state": "started",
-   "start": "13-Nov-2026 10:59"
+   "state": "done",
+   "start": "13-Nov-2026 10:59",
+   "end": "13-Nov-2026 11:00"
   }
  ]
 }
