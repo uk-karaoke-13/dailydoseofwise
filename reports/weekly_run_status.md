@@ -30,5 +30,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:25 SGT
 | 22 | Background reel_frost_through | ✅ done | 13-Nov-2026 11:06 | 13-Nov-2026 11:21 |  |
 | 23 | Render reel_frost_through | ✅ done | 13-Nov-2026 11:21 | 13-Nov-2026 11:22 |  |
 | 24 | Check reels | ✅ done | 13-Nov-2026 11:25 | 13-Nov-2026 11:25 | 7 of 7 OK (Frost regenerated once) |
+| 25 | Upload to GitHub | ⏳ started | 13-Nov-2026 11:25 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
