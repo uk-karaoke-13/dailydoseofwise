@@ -77,8 +77,9 @@
   },
   {
    "name": "Background reel_einstein_imagination",
-   "state": "started",
-   "start": "13-Nov-2026 10:41"
+   "state": "done",
+   "start": "13-Nov-2026 10:41",
+   "end": "13-Nov-2026 10:59"
   }
  ]
 }
