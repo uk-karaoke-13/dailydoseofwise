@@ -10,5 +10,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 10:40 SGT
 | 2 | Pick dates | ✅ done | 13-Nov-2026 10:38 | 13-Nov-2026 10:39 | Mon 16 – Sun 22 Nov (last post Sun 15 Nov) |
 | 3 | Pick 7 quotes | ✅ done | 13-Nov-2026 10:39 | 13-Nov-2026 10:39 | 7 picked (no unused Ujjwal/Rupali); rows 28,85,57,69,27,43,60 |
 | 4 | Write missing fields & plan | ✅ done | 13-Nov-2026 10:39 | 13-Nov-2026 10:40 | 7 rows filled (F–H), plan.json |
+| 5 | Voiceovers | ⏳ started | 13-Nov-2026 10:40 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
