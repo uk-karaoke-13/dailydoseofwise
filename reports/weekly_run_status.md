@@ -14,5 +14,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 10:41 SGT
 | 6 | Background reel_frost_through | ⏳ started | 13-Nov-2026 10:41 |  |  |
 | 7 | Background reel_chineseproverb_tree | ⏳ started | 13-Nov-2026 10:41 |  |  |
 | 8 | Background reel_hurston_years | ⏳ started | 13-Nov-2026 10:41 |  |  |
+| 9 | Background reel_emerson_trust | ⏳ started | 13-Nov-2026 10:41 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
