@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 13-Nov-2026",
  "started": "13-Nov-2026 10:36",
- "updated": "13-Nov-2026 11:06",
+ "updated": "13-Nov-2026 11:21",
  "status": "running",
  "steps": [
   {
@@ -139,8 +139,9 @@
   },
   {
    "name": "Background reel_frost_through",
-   "state": "started",
-   "start": "13-Nov-2026 11:06"
+   "state": "done",
+   "start": "13-Nov-2026 11:06",
+   "end": "13-Nov-2026 11:21"
   }
  ]
 }
