@@ -11,5 +11,6 @@ Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 10:41 SGT
 | 3 | Pick 7 quotes | ✅ done | 13-Nov-2026 10:39 | 13-Nov-2026 10:39 | 7 picked (no unused Ujjwal/Rupali); rows 28,85,57,69,27,43,60 |
 | 4 | Write missing fields & plan | ✅ done | 13-Nov-2026 10:39 | 13-Nov-2026 10:40 | 7 rows filled (F–H), plan.json |
 | 5 | Voiceovers | ✅ done | 13-Nov-2026 10:40 | 13-Nov-2026 10:41 | 7 of 7 |
+| 6 | Background reel_frost_through | ⏳ started | 13-Nov-2026 10:41 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
