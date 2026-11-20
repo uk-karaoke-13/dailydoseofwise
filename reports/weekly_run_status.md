@@ -14,7 +14,7 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:57 SGT
 | 6 | Background reel_confucius_knowledge | ✅ done | 20-Nov-2026 10:41 | 20-Nov-2026 10:55 |  |
 | 7 | Background reel_kierkegaard_forwards | ⏳ started | 20-Nov-2026 10:41 |  |  |
 | 8 | Background reel_marcusaurelius_happy | ✅ done | 20-Nov-2026 10:41 | 20-Nov-2026 10:55 |  |
-| 9 | Background reel_butler_habit | ⏳ started | 20-Nov-2026 10:42 |  |  |
+| 9 | Background reel_butler_habit | ✅ done | 20-Nov-2026 10:42 | 20-Nov-2026 10:57 |  |
 | 10 | Background reel_tolkien_time | ✅ done | 20-Nov-2026 10:42 | 20-Nov-2026 10:57 |  |
 | 11 | Background reel_camus_summer | ⏳ started | 20-Nov-2026 10:42 |  |  |
 | 12 | Background reel_nietzsche_why | ⏳ started | 20-Nov-2026 10:42 |  |  |

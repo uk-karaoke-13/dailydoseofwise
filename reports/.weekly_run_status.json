@@ -58,8 +58,9 @@
   },
   {
    "name": "Background reel_butler_habit",
-   "state": "started",
-   "start": "20-Nov-2026 10:42"
+   "state": "done",
+   "start": "20-Nov-2026 10:42",
+   "end": "20-Nov-2026 10:57"
   },
   {
    "name": "Background reel_tolkien_time",
