@@ -58,6 +58,11 @@
    "name": "Background reel_butler_habit",
    "state": "started",
    "start": "20-Nov-2026 10:42"
+  },
+  {
+   "name": "Background reel_tolkien_time",
+   "state": "started",
+   "start": "20-Nov-2026 10:42"
   }
  ]
 }
