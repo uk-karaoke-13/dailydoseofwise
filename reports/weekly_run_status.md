@@ -1,6 +1,6 @@
 # Weekly run 20-Nov-2026 – Daily Dose of Wise
 
-Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:07 SGT
+Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:08 SGT
 
 **Status: running**
 
@@ -27,6 +27,6 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:07 SGT
 | 19 | Render reel_kierkegaard_forwards | ✅ done | 20-Nov-2026 11:05 | 20-Nov-2026 11:06 |  |
 | 20 | Check reels | ✅ done | 20-Nov-2026 11:06 | 20-Nov-2026 11:07 | 7 of 7 OK (1080x1920, 30fps, 11.9–14.7 s, audio) |
 | 21 | Upload to GitHub | ✅ done | 20-Nov-2026 11:07 | 20-Nov-2026 11:07 | 7 reels, commit e35cc21, links 200 |
-| 22 | Schedule in Buffer | ⏳ started | 20-Nov-2026 11:07 |  |  |
+| 22 | Schedule in Buffer | ✅ done | 20-Nov-2026 11:07 | 20-Nov-2026 11:08 | 14 of 14 posts scheduled (7 IG + 7 YT) |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
