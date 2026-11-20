@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 20-Nov-2026",
  "started": "20-Nov-2026 10:37",
- "updated": "20-Nov-2026 10:58",
+ "updated": "20-Nov-2026 11:00",
  "status": "running",
  "steps": [
   {
@@ -47,8 +47,9 @@
   },
   {
    "name": "Background reel_kierkegaard_forwards",
-   "state": "started",
-   "start": "20-Nov-2026 10:41"
+   "state": "done",
+   "start": "20-Nov-2026 10:41",
+   "end": "20-Nov-2026 11:00"
   },
   {
    "name": "Background reel_marcusaurelius_happy",
