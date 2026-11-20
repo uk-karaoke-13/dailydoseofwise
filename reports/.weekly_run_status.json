@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 20-Nov-2026",
  "started": "20-Nov-2026 10:37",
- "updated": "20-Nov-2026 10:55",
+ "updated": "20-Nov-2026 10:57",
  "status": "running",
  "steps": [
   {
@@ -63,8 +63,9 @@
   },
   {
    "name": "Background reel_tolkien_time",
-   "state": "started",
-   "start": "20-Nov-2026 10:42"
+   "state": "done",
+   "start": "20-Nov-2026 10:42",
+   "end": "20-Nov-2026 10:57"
   },
   {
    "name": "Background reel_camus_summer",
