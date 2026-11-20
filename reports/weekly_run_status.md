@@ -1,37 +1,10 @@
-# Weekly run 13-Nov-2026 – Daily Dose of Wise
+# Weekly run 20-Nov-2026 – Daily Dose of Wise
 
-Started 13-Nov-2026 10:36 SGT · Last update 13-Nov-2026 11:27 SGT
+Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:37 SGT
 
-**Status: Process completed – 7 reels scheduled 16-Nov – 22-Nov – all steps completed**
+**Status: running**
 
 | # | Step | Status | Started | Finished | Note |
 |---|---|---|---|---|---|
-| 1 | Set up workspace | ✅ done | 13-Nov-2026 10:36 | 13-Nov-2026 10:38 | tools + keys ready |
-| 2 | Pick dates | ✅ done | 13-Nov-2026 10:38 | 13-Nov-2026 10:39 | Mon 16 – Sun 22 Nov (last post Sun 15 Nov) |
-| 3 | Pick 7 quotes | ✅ done | 13-Nov-2026 10:39 | 13-Nov-2026 10:39 | 7 picked (no unused Ujjwal/Rupali); rows 28,85,57,69,27,43,60 |
-| 4 | Write missing fields & plan | ✅ done | 13-Nov-2026 10:39 | 13-Nov-2026 10:40 | 7 rows filled (F–H), plan.json |
-| 5 | Voiceovers | ✅ done | 13-Nov-2026 10:40 | 13-Nov-2026 10:41 | 7 of 7 |
-| 6 | Background reel_frost_through | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:55 |  |
-| 7 | Background reel_chineseproverb_tree | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:57 |  |
-| 8 | Background reel_hurston_years | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:58 |  |
-| 9 | Background reel_emerson_trust | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:58 |  |
-| 10 | Background reel_dillard_days | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:59 |  |
-| 11 | Background reel_japaneseproverb_rise | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:58 |  |
-| 12 | Background reel_einstein_imagination | ✅ done | 13-Nov-2026 10:41 | 13-Nov-2026 10:59 |  |
-| 13 | Render reel_chineseproverb_tree | ✅ done | 13-Nov-2026 10:59 | 13-Nov-2026 11:00 |  |
-| 14 | Render reel_dillard_days | ✅ done | 13-Nov-2026 11:00 | 13-Nov-2026 11:01 |  |
-| 15 | Render reel_frost_through | ✅ done | 13-Nov-2026 11:01 | 13-Nov-2026 11:02 |  |
-| 16 | Render reel_hurston_years | ✅ done | 13-Nov-2026 11:02 | 13-Nov-2026 11:02 |  |
-| 17 | Render reel_japaneseproverb_rise | ✅ done | 13-Nov-2026 11:03 | 13-Nov-2026 11:03 |  |
-| 18 | Render reel_emerson_trust | ✅ done | 13-Nov-2026 11:03 | 13-Nov-2026 11:04 |  |
-| 19 | Render reel_einstein_imagination | ✅ done | 13-Nov-2026 11:04 | 13-Nov-2026 11:05 |  |
-| 20 | Check reels | ✅ done | 13-Nov-2026 11:06 | 13-Nov-2026 11:06 | 6 of 7 OK; Frost regenerating (hiker distorted) |
-| 21 | Voiceovers | ✅ done | 13-Nov-2026 11:06 | 13-Nov-2026 11:06 | 1 of 1 |
-| 22 | Background reel_frost_through | ✅ done | 13-Nov-2026 11:06 | 13-Nov-2026 11:21 |  |
-| 23 | Render reel_frost_through | ✅ done | 13-Nov-2026 11:21 | 13-Nov-2026 11:22 |  |
-| 24 | Check reels | ✅ done | 13-Nov-2026 11:25 | 13-Nov-2026 11:25 | 7 of 7 OK (Frost regenerated once) |
-| 25 | Upload to GitHub | ✅ done | 13-Nov-2026 11:25 | 13-Nov-2026 11:26 | 7 reels, commit 6ffa15f |
-| 26 | Schedule in Buffer | ✅ done | 13-Nov-2026 11:26 | 13-Nov-2026 11:26 | 14 posts (7 IG + 7 YT) scheduled, no errors |
-| 27 | Update Google Sheet | ✅ done | 13-Nov-2026 11:26 | 13-Nov-2026 11:27 | 7 rows updated |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
