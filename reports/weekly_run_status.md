@@ -28,6 +28,6 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:08 SGT
 | 20 | Check reels | ✅ done | 20-Nov-2026 11:06 | 20-Nov-2026 11:07 | 7 of 7 OK (1080x1920, 30fps, 11.9–14.7 s, audio) |
 | 21 | Upload to GitHub | ✅ done | 20-Nov-2026 11:07 | 20-Nov-2026 11:07 | 7 reels, commit e35cc21, links 200 |
 | 22 | Schedule in Buffer | ✅ done | 20-Nov-2026 11:07 | 20-Nov-2026 11:08 | 14 of 14 posts scheduled (7 IG + 7 YT) |
-| 23 | Update Google Sheet | ⏳ started | 20-Nov-2026 11:08 |  |  |
+| 23 | Update Google Sheet | ✅ done | 20-Nov-2026 11:08 | 20-Nov-2026 11:08 | 7 rows updated |
 
 _Times are Singapore time. This file is overwritten by every weekly run._

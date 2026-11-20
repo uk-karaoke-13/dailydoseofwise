@@ -146,8 +146,10 @@
   },
   {
    "name": "Update Google Sheet",
-   "state": "started",
-   "start": "20-Nov-2026 11:08"
+   "state": "done",
+   "start": "20-Nov-2026 11:08",
+   "end": "20-Nov-2026 11:08",
+   "note": "7 rows updated"
   }
  ]
 }
