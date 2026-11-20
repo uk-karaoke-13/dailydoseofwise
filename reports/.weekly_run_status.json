@@ -143,6 +143,11 @@
    "start": "20-Nov-2026 11:07",
    "end": "20-Nov-2026 11:08",
    "note": "14 of 14 posts scheduled (7 IG + 7 YT)"
+  },
+  {
+   "name": "Update Google Sheet",
+   "state": "started",
+   "start": "20-Nov-2026 11:08"
   }
  ]
 }
