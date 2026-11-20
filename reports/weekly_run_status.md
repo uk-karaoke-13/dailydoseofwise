@@ -1,6 +1,6 @@
 # Weekly run 20-Nov-2026 – Daily Dose of Wise
 
-Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:06 SGT
+Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:07 SGT
 
 **Status: running**
 
@@ -25,6 +25,6 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:06 SGT
 | 17 | Render reel_camus_summer | ✅ done | 20-Nov-2026 11:03 | 20-Nov-2026 11:04 |  |
 | 18 | Render reel_butler_habit | ✅ done | 20-Nov-2026 11:04 | 20-Nov-2026 11:05 |  |
 | 19 | Render reel_kierkegaard_forwards | ✅ done | 20-Nov-2026 11:05 | 20-Nov-2026 11:06 |  |
-| 20 | Check reels | ⏳ started | 20-Nov-2026 11:06 |  |  |
+| 20 | Check reels | ✅ done | 20-Nov-2026 11:06 | 20-Nov-2026 11:07 | 7 of 7 OK (1080x1920, 30fps, 11.9–14.7 s, audio) |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
