@@ -26,6 +26,6 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:07 SGT
 | 18 | Render reel_butler_habit | ✅ done | 20-Nov-2026 11:04 | 20-Nov-2026 11:05 |  |
 | 19 | Render reel_kierkegaard_forwards | ✅ done | 20-Nov-2026 11:05 | 20-Nov-2026 11:06 |  |
 | 20 | Check reels | ✅ done | 20-Nov-2026 11:06 | 20-Nov-2026 11:07 | 7 of 7 OK (1080x1920, 30fps, 11.9–14.7 s, audio) |
-| 21 | Upload to GitHub | ⏳ started | 20-Nov-2026 11:07 |  |  |
+| 21 | Upload to GitHub | ✅ done | 20-Nov-2026 11:07 | 20-Nov-2026 11:07 | 7 reels, commit e35cc21, links 200 |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
