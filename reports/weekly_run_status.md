@@ -7,5 +7,6 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:38 SGT
 | # | Step | Status | Started | Finished | Note |
 |---|---|---|---|---|---|
 | 1 | Set up workspace | ✅ done | 20-Nov-2026 10:37 | 20-Nov-2026 10:38 | tools + keys ready |
+| 2 | Pick dates | ⏳ started | 20-Nov-2026 10:38 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
