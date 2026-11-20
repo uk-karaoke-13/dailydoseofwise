@@ -13,5 +13,6 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:41 SGT
 | 5 | Voiceovers | ✅ done | 20-Nov-2026 10:40 | 20-Nov-2026 10:41 | 7 of 7 |
 | 6 | Background reel_confucius_knowledge | ⏳ started | 20-Nov-2026 10:41 |  |  |
 | 7 | Background reel_kierkegaard_forwards | ⏳ started | 20-Nov-2026 10:41 |  |  |
+| 8 | Background reel_marcusaurelius_happy | ⏳ started | 20-Nov-2026 10:41 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
