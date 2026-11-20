@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 20-Nov-2026",
  "started": "20-Nov-2026 10:37",
- "updated": "20-Nov-2026 11:02",
+ "updated": "20-Nov-2026 11:03",
  "status": "running",
  "steps": [
   {
@@ -101,8 +101,9 @@
   },
   {
    "name": "Render reel_confucius_knowledge",
-   "state": "started",
-   "start": "20-Nov-2026 11:02"
+   "state": "done",
+   "start": "20-Nov-2026 11:02",
+   "end": "20-Nov-2026 11:03"
   }
  ]
 }
