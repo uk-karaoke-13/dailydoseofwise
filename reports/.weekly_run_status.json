@@ -75,8 +75,9 @@
   },
   {
    "name": "Background reel_nietzsche_why",
-   "state": "started",
-   "start": "20-Nov-2026 10:42"
+   "state": "done",
+   "start": "20-Nov-2026 10:42",
+   "end": "20-Nov-2026 10:57"
   }
  ]
 }
