@@ -11,5 +11,6 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:41 SGT
 | 3 | Pick 7 quotes | ✅ done | 20-Nov-2026 10:39 | 20-Nov-2026 10:40 | no Ujjwal/Rupali left; 4 famous + 3 lesser-known |
 | 4 | Write missing fields & plan | ✅ done | 20-Nov-2026 10:40 | 20-Nov-2026 10:40 | plan.json ready; sheet F–H written during generation |
 | 5 | Voiceovers | ✅ done | 20-Nov-2026 10:40 | 20-Nov-2026 10:41 | 7 of 7 |
+| 6 | Background reel_confucius_knowledge | ⏳ started | 20-Nov-2026 10:41 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
