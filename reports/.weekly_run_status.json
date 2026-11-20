@@ -136,6 +136,11 @@
    "start": "20-Nov-2026 11:07",
    "end": "20-Nov-2026 11:07",
    "note": "7 reels, commit e35cc21, links 200"
+  },
+  {
+   "name": "Schedule in Buffer",
+   "state": "started",
+   "start": "20-Nov-2026 11:07"
   }
  ]
 }
