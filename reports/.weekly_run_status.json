@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 20-Nov-2026",
  "started": "20-Nov-2026 10:37",
- "updated": "20-Nov-2026 11:04",
+ "updated": "20-Nov-2026 11:05",
  "status": "running",
  "steps": [
   {
@@ -113,8 +113,9 @@
   },
   {
    "name": "Render reel_butler_habit",
-   "state": "started",
-   "start": "20-Nov-2026 11:04"
+   "state": "done",
+   "start": "20-Nov-2026 11:04",
+   "end": "20-Nov-2026 11:05"
   }
  ]
 }
