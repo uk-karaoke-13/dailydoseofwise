@@ -153,8 +153,10 @@
   },
   {
    "name": "Email report",
-   "state": "started",
-   "start": "20-Nov-2026 11:08"
+   "state": "done",
+   "start": "20-Nov-2026 11:08",
+   "end": "20-Nov-2026 11:08",
+   "note": "sent to uk.karaoke.13@gmail.com"
   }
  ]
 }
