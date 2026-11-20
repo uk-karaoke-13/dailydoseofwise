@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 20-Nov-2026",
  "started": "20-Nov-2026 10:37",
- "updated": "20-Nov-2026 10:57",
+ "updated": "20-Nov-2026 10:58",
  "status": "running",
  "steps": [
   {
@@ -70,8 +70,9 @@
   },
   {
    "name": "Background reel_camus_summer",
-   "state": "started",
-   "start": "20-Nov-2026 10:42"
+   "state": "done",
+   "start": "20-Nov-2026 10:42",
+   "end": "20-Nov-2026 10:58"
   },
   {
    "name": "Background reel_nietzsche_why",
