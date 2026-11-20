@@ -27,8 +27,10 @@
   },
   {
    "name": "Write missing fields & plan",
-   "state": "started",
-   "start": "20-Nov-2026 10:40"
+   "state": "done",
+   "start": "20-Nov-2026 10:40",
+   "end": "20-Nov-2026 10:40",
+   "note": "plan.json ready; sheet F\u2013H written during generation"
   }
  ]
 }
