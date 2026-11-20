@@ -1,6 +1,6 @@
 # Weekly run 20-Nov-2026 – Daily Dose of Wise
 
-Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:42 SGT
+Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:55 SGT
 
 **Status: running**
 
@@ -13,7 +13,7 @@ Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 10:42 SGT
 | 5 | Voiceovers | ✅ done | 20-Nov-2026 10:40 | 20-Nov-2026 10:41 | 7 of 7 |
 | 6 | Background reel_confucius_knowledge | ⏳ started | 20-Nov-2026 10:41 |  |  |
 | 7 | Background reel_kierkegaard_forwards | ⏳ started | 20-Nov-2026 10:41 |  |  |
-| 8 | Background reel_marcusaurelius_happy | ⏳ started | 20-Nov-2026 10:41 |  |  |
+| 8 | Background reel_marcusaurelius_happy | ✅ done | 20-Nov-2026 10:41 | 20-Nov-2026 10:55 |  |
 | 9 | Background reel_butler_habit | ⏳ started | 20-Nov-2026 10:42 |  |  |
 | 10 | Background reel_tolkien_time | ⏳ started | 20-Nov-2026 10:42 |  |  |
 | 11 | Background reel_camus_summer | ⏳ started | 20-Nov-2026 10:42 |  |  |

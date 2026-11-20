@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 20-Nov-2026",
  "started": "20-Nov-2026 10:37",
- "updated": "20-Nov-2026 10:42",
+ "updated": "20-Nov-2026 10:55",
  "status": "running",
  "steps": [
   {
@@ -51,8 +51,9 @@
   },
   {
    "name": "Background reel_marcusaurelius_happy",
-   "state": "started",
-   "start": "20-Nov-2026 10:41"
+   "state": "done",
+   "start": "20-Nov-2026 10:41",
+   "end": "20-Nov-2026 10:55"
   },
   {
    "name": "Background reel_butler_habit",
