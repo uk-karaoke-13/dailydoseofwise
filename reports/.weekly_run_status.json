@@ -129,6 +129,11 @@
    "start": "20-Nov-2026 11:06",
    "end": "20-Nov-2026 11:07",
    "note": "7 of 7 OK (1080x1920, 30fps, 11.9\u201314.7 s, audio)"
+  },
+  {
+   "name": "Upload to GitHub",
+   "state": "started",
+   "start": "20-Nov-2026 11:07"
   }
  ]
 }
