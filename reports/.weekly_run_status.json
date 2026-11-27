@@ -65,8 +65,9 @@
   },
   {
    "name": "Background reel_mlk_light",
-   "state": "started",
-   "start": "27-Nov-2026 10:42"
+   "state": "done",
+   "start": "27-Nov-2026 10:42",
+   "end": "27-Nov-2026 10:59"
   },
   {
    "name": "Background reel_covey_listen",
