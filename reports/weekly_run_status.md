@@ -27,5 +27,6 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 11:10 SGT
 | 19 | Render reel_newton_giants | ✅ done | 27-Nov-2026 11:07 | 27-Nov-2026 11:09 |  |
 | 20 | Check reels | ✅ done | 27-Nov-2026 11:09 | 27-Nov-2026 11:09 | 7 of 7 ok, no regeneration |
 | 21 | Upload to GitHub | ✅ done | 27-Nov-2026 11:09 | 27-Nov-2026 11:10 | 7 reels, commit 8b6c7cb |
+| 22 | Schedule in Buffer | ⏳ started | 27-Nov-2026 11:10 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
