@@ -24,5 +24,6 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 11:07 SGT
 | 16 | Render reel_taleb_fire | ✅ done | 27-Nov-2026 11:03 | 27-Nov-2026 11:05 |  |
 | 17 | Render reel_mlk_light | ✅ done | 27-Nov-2026 11:05 | 27-Nov-2026 11:06 |  |
 | 18 | Render reel_rilke_questions | ✅ done | 27-Nov-2026 11:06 | 27-Nov-2026 11:07 |  |
+| 19 | Render reel_newton_giants | ⏳ started | 27-Nov-2026 11:07 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
