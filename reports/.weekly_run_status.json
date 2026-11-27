@@ -47,8 +47,9 @@
   },
   {
    "name": "Background reel_shedd_ship",
-   "state": "started",
-   "start": "27-Nov-2026 10:42"
+   "state": "done",
+   "start": "27-Nov-2026 10:42",
+   "end": "27-Nov-2026 10:58"
   },
   {
    "name": "Background reel_taleb_fire",
