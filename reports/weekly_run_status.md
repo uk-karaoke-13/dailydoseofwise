@@ -29,6 +29,6 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 11:11 SGT
 | 21 | Upload to GitHub | ✅ done | 27-Nov-2026 11:09 | 27-Nov-2026 11:10 | 7 reels, commit 8b6c7cb |
 | 22 | Schedule in Buffer | ✅ done | 27-Nov-2026 11:10 | 27-Nov-2026 11:10 | 14 posts (7 IG + 7 YT) scheduled |
 | 23 | Update Google Sheet | ✅ done | 27-Nov-2026 11:10 | 27-Nov-2026 11:11 | 7 rows I–O |
-| 24 | Email report | ⏳ started | 27-Nov-2026 11:11 |  |  |
+| 24 | Email report | ✅ done | 27-Nov-2026 11:11 | 27-Nov-2026 11:11 | sent |
 
 _Times are Singapore time. This file is overwritten by every weekly run._

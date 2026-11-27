@@ -153,8 +153,10 @@
   },
   {
    "name": "Email report",
-   "state": "started",
-   "start": "27-Nov-2026 11:11"
+   "state": "done",
+   "start": "27-Nov-2026 11:11",
+   "end": "27-Nov-2026 11:11",
+   "note": "sent"
   }
  ]
 }
