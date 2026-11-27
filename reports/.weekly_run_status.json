@@ -20,8 +20,10 @@
   },
   {
    "name": "Pick 7 quotes",
-   "state": "started",
-   "start": "27-Nov-2026 10:39"
+   "state": "done",
+   "start": "27-Nov-2026 10:39",
+   "end": "27-Nov-2026 10:39",
+   "note": "no Ujjwal/Rupali left; 4 famous + 3 lesser-known"
   }
  ]
 }
