@@ -150,6 +150,11 @@
    "start": "27-Nov-2026 11:10",
    "end": "27-Nov-2026 11:11",
    "note": "7 rows I\u2013O"
+  },
+  {
+   "name": "Email report",
+   "state": "started",
+   "start": "27-Nov-2026 11:11"
   }
  ]
 }
