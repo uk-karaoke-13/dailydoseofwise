@@ -1,6 +1,6 @@
 # Weekly run 27-Nov-2026 – Daily Dose of Wise
 
-Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:55 SGT
+Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:57 SGT
 
 **Status: running**
 
@@ -16,7 +16,7 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:55 SGT
 | 8 | Background reel_taleb_fire | ⏳ started | 27-Nov-2026 10:42 |  |  |
 | 9 | Background reel_newton_giants | ⏳ started | 27-Nov-2026 10:42 |  |  |
 | 10 | Background reel_mlk_light | ⏳ started | 27-Nov-2026 10:42 |  |  |
-| 11 | Background reel_covey_listen | ⏳ started | 27-Nov-2026 10:42 |  |  |
+| 11 | Background reel_covey_listen | ✅ done | 27-Nov-2026 10:42 | 27-Nov-2026 10:57 |  |
 | 12 | Background reel_rilke_questions | ⏳ started | 27-Nov-2026 10:42 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
