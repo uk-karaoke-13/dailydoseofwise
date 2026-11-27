@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 27-Nov-2026",
  "started": "27-Nov-2026 10:37",
- "updated": "27-Nov-2026 10:37",
+ "updated": "27-Nov-2026 10:39",
  "status": "running",
  "steps": [
   {
@@ -13,8 +13,10 @@
   },
   {
    "name": "Pick dates",
-   "state": "started",
-   "start": "27-Nov-2026 10:37"
+   "state": "done",
+   "start": "27-Nov-2026 10:37",
+   "end": "27-Nov-2026 10:39",
+   "note": "30-Nov \u2013 06-Dec (last: 29-Nov Buffer; Metricool empty)"
   }
  ]
 }
