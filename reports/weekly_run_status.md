@@ -23,5 +23,6 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 11:06 SGT
 | 15 | Render reel_covey_listen | ✅ done | 27-Nov-2026 11:02 | 27-Nov-2026 11:03 |  |
 | 16 | Render reel_taleb_fire | ✅ done | 27-Nov-2026 11:03 | 27-Nov-2026 11:05 |  |
 | 17 | Render reel_mlk_light | ✅ done | 27-Nov-2026 11:05 | 27-Nov-2026 11:06 |  |
+| 18 | Render reel_rilke_questions | ⏳ started | 27-Nov-2026 11:06 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
