@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 27-Nov-2026",
  "started": "27-Nov-2026 10:37",
- "updated": "27-Nov-2026 10:57",
+ "updated": "27-Nov-2026 10:58",
  "status": "running",
  "steps": [
   {
@@ -52,8 +52,9 @@
   },
   {
    "name": "Background reel_taleb_fire",
-   "state": "started",
-   "start": "27-Nov-2026 10:42"
+   "state": "done",
+   "start": "27-Nov-2026 10:42",
+   "end": "27-Nov-2026 10:58"
   },
   {
    "name": "Background reel_newton_giants",

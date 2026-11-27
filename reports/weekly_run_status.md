@@ -1,6 +1,6 @@
 # Weekly run 27-Nov-2026 – Daily Dose of Wise
 
-Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:57 SGT
+Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:58 SGT
 
 **Status: running**
 
@@ -13,7 +13,7 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:57 SGT
 | 5 | Voiceovers | ✅ done | 27-Nov-2026 10:40 | 27-Nov-2026 10:41 | 7 of 7 |
 | 6 | Background reel_leguin_journey | ✅ done | 27-Nov-2026 10:41 | 27-Nov-2026 10:55 |  |
 | 7 | Background reel_shedd_ship | ⏳ started | 27-Nov-2026 10:42 |  |  |
-| 8 | Background reel_taleb_fire | ⏳ started | 27-Nov-2026 10:42 |  |  |
+| 8 | Background reel_taleb_fire | ✅ done | 27-Nov-2026 10:42 | 27-Nov-2026 10:58 |  |
 | 9 | Background reel_newton_giants | ⏳ started | 27-Nov-2026 10:42 |  |  |
 | 10 | Background reel_mlk_light | ⏳ started | 27-Nov-2026 10:42 |  |  |
 | 11 | Background reel_covey_listen | ✅ done | 27-Nov-2026 10:42 | 27-Nov-2026 10:57 |  |
