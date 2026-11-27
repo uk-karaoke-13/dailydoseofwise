@@ -13,5 +13,6 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:42 SGT
 | 5 | Voiceovers | ✅ done | 27-Nov-2026 10:40 | 27-Nov-2026 10:41 | 7 of 7 |
 | 6 | Background reel_leguin_journey | ⏳ started | 27-Nov-2026 10:41 |  |  |
 | 7 | Background reel_shedd_ship | ⏳ started | 27-Nov-2026 10:42 |  |  |
+| 8 | Background reel_taleb_fire | ⏳ started | 27-Nov-2026 10:42 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
