@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 27-Nov-2026",
  "started": "27-Nov-2026 10:37",
- "updated": "27-Nov-2026 11:06",
+ "updated": "27-Nov-2026 11:07",
  "status": "running",
  "steps": [
   {
@@ -113,8 +113,9 @@
   },
   {
    "name": "Render reel_rilke_questions",
-   "state": "started",
-   "start": "27-Nov-2026 11:06"
+   "state": "done",
+   "start": "27-Nov-2026 11:06",
+   "end": "27-Nov-2026 11:07"
   }
  ]
 }
