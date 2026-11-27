@@ -21,5 +21,6 @@ Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 11:03 SGT
 | 13 | Render reel_shedd_ship | ✅ done | 27-Nov-2026 10:59 | 27-Nov-2026 11:01 |  |
 | 14 | Render reel_leguin_journey | ✅ done | 27-Nov-2026 11:01 | 27-Nov-2026 11:02 |  |
 | 15 | Render reel_covey_listen | ✅ done | 27-Nov-2026 11:02 | 27-Nov-2026 11:03 |  |
+| 16 | Render reel_taleb_fire | ⏳ started | 27-Nov-2026 11:03 |  |  |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
