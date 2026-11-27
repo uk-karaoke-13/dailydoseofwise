@@ -1,34 +1,10 @@
-# Weekly run 20-Nov-2026 – Daily Dose of Wise
+# Weekly run 27-Nov-2026 – Daily Dose of Wise
 
-Started 20-Nov-2026 10:37 SGT · Last update 20-Nov-2026 11:08 SGT
+Started 27-Nov-2026 10:37 SGT · Last update 27-Nov-2026 10:37 SGT
 
-**Status: Process completed – 7 reels scheduled 23-Nov – 29-Nov – all steps completed**
+**Status: running**
 
 | # | Step | Status | Started | Finished | Note |
 |---|---|---|---|---|---|
-| 1 | Set up workspace | ✅ done | 20-Nov-2026 10:37 | 20-Nov-2026 10:38 | tools + keys ready |
-| 2 | Pick dates | ✅ done | 20-Nov-2026 10:38 | 20-Nov-2026 10:39 | Buffer last 22-Nov, Metricool none → 23–29 Nov |
-| 3 | Pick 7 quotes | ✅ done | 20-Nov-2026 10:39 | 20-Nov-2026 10:40 | no Ujjwal/Rupali left; 4 famous + 3 lesser-known |
-| 4 | Write missing fields & plan | ✅ done | 20-Nov-2026 10:40 | 20-Nov-2026 10:40 | plan.json ready; sheet F–H written during generation |
-| 5 | Voiceovers | ✅ done | 20-Nov-2026 10:40 | 20-Nov-2026 10:41 | 7 of 7 |
-| 6 | Background reel_confucius_knowledge | ✅ done | 20-Nov-2026 10:41 | 20-Nov-2026 10:55 |  |
-| 7 | Background reel_kierkegaard_forwards | ✅ done | 20-Nov-2026 10:41 | 20-Nov-2026 11:00 |  |
-| 8 | Background reel_marcusaurelius_happy | ✅ done | 20-Nov-2026 10:41 | 20-Nov-2026 10:55 |  |
-| 9 | Background reel_butler_habit | ✅ done | 20-Nov-2026 10:42 | 20-Nov-2026 10:57 |  |
-| 10 | Background reel_tolkien_time | ✅ done | 20-Nov-2026 10:42 | 20-Nov-2026 10:57 |  |
-| 11 | Background reel_camus_summer | ✅ done | 20-Nov-2026 10:42 | 20-Nov-2026 10:58 |  |
-| 12 | Background reel_nietzsche_why | ✅ done | 20-Nov-2026 10:42 | 20-Nov-2026 10:57 |  |
-| 13 | Render reel_tolkien_time | ✅ done | 20-Nov-2026 11:00 | 20-Nov-2026 11:01 |  |
-| 14 | Render reel_marcusaurelius_happy | ✅ done | 20-Nov-2026 11:01 | 20-Nov-2026 11:02 |  |
-| 15 | Render reel_nietzsche_why | ✅ done | 20-Nov-2026 11:02 | 20-Nov-2026 11:02 |  |
-| 16 | Render reel_confucius_knowledge | ✅ done | 20-Nov-2026 11:02 | 20-Nov-2026 11:03 |  |
-| 17 | Render reel_camus_summer | ✅ done | 20-Nov-2026 11:03 | 20-Nov-2026 11:04 |  |
-| 18 | Render reel_butler_habit | ✅ done | 20-Nov-2026 11:04 | 20-Nov-2026 11:05 |  |
-| 19 | Render reel_kierkegaard_forwards | ✅ done | 20-Nov-2026 11:05 | 20-Nov-2026 11:06 |  |
-| 20 | Check reels | ✅ done | 20-Nov-2026 11:06 | 20-Nov-2026 11:07 | 7 of 7 OK (1080x1920, 30fps, 11.9–14.7 s, audio) |
-| 21 | Upload to GitHub | ✅ done | 20-Nov-2026 11:07 | 20-Nov-2026 11:07 | 7 reels, commit e35cc21, links 200 |
-| 22 | Schedule in Buffer | ✅ done | 20-Nov-2026 11:07 | 20-Nov-2026 11:08 | 14 of 14 posts scheduled (7 IG + 7 YT) |
-| 23 | Update Google Sheet | ✅ done | 20-Nov-2026 11:08 | 20-Nov-2026 11:08 | 7 rows updated |
-| 24 | Email report | ✅ done | 20-Nov-2026 11:08 | 20-Nov-2026 11:08 | sent to uk.karaoke.13@gmail.com |
 
 _Times are Singapore time. This file is overwritten by every weekly run._
