@@ -1,7 +1,7 @@
 {
  "title": "Weekly run 27-Nov-2026",
  "started": "27-Nov-2026 10:37",
- "updated": "27-Nov-2026 11:07",
+ "updated": "27-Nov-2026 11:09",
  "status": "running",
  "steps": [
   {
@@ -119,8 +119,9 @@
   },
   {
    "name": "Render reel_newton_giants",
-   "state": "started",
-   "start": "27-Nov-2026 11:07"
+   "state": "done",
+   "start": "27-Nov-2026 11:07",
+   "end": "27-Nov-2026 11:09"
   }
  ]
 }
